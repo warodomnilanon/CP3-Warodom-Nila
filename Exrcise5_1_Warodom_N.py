@@ -1,0 +1,10 @@
+a = int(input("No.1: "))
+b = int(input("No.2: "))
+add = a + b
+minus = a - b
+multiply = a * b
+divide = int(a / b)
+print(a," + ", b," = ", add)
+print(a," - ", b," = ", minus)
+print(a," x ", b," = ", multiply)
+print(a," / ", b," = ", divide)
